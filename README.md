@@ -66,7 +66,7 @@
 
 # Set up the database:
 
-    Import the provided SQL file into your MySQL server.
+    Import the provided Database's SQL file into your MySQL server.
     Configure the database connection in the PHP files.
 
 # Future Enhancements
